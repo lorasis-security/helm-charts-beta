@@ -5,7 +5,7 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.2.0
-    created: "2026-10-21T09:00:32.071766+02:00"
+    created: "2026-10-21T09:06:05.382117+02:00"
     description: BETA. FOR TECHNICAL REVIEW. NOT YET QUALIFIED FOR DEPLOYMENT. Lorasis
       Sense protected namespace evidence and colocated appraisal delivery.
     digest: ea5ed7f1fb541b5848f586ebca6d5559a86d0fe6ee75846b61135f949368b6a1
@@ -15,4 +15,4 @@ entries:
     urls:
     - https://lorasis-security.github.io/helm-charts-beta/lorasis-sense-0.3.4-beta.tgz
     version: 0.3.4-beta
-generated: "2026-10-21T09:00:32.070627+02:00"
+generated: "2026-10-21T09:06:05.379871+02:00"
